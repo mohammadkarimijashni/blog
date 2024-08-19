@@ -53,7 +53,7 @@ export default function SignUp() {
                               </Link>
                               <p className="text-sm mt-5">
                                     This is a demo project. You can sign up with
-                                    your email and password or with Google.
+                                    your email and password .
                               </p>
                         </div>
                         {/* right */}
@@ -106,7 +106,6 @@ export default function SignUp() {
                                                 "Sign Up"
                                           )}
                                     </Button>
-                                    <OAuth />
                               </form>
                               <div className="flex gap-2 text-sm mt-5">
                                     <span>Have an account?</span>
